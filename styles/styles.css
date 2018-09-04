@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', arial, sans-serif;
+}
+div.containt{
+    width: 450px;
+    margin: 0 auto;
+}
